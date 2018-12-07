@@ -1,3 +1,3 @@
-# My_whole_deployed_project
+# My whole deployed project
 
 1. Banglai-Django
