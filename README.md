@@ -3,6 +3,10 @@
 ---
 
 # 1. Banglai-Django 
+Banglai-django is a popular blog site written django in bangla.
+
+[banglai-django.com](http://www.banglai-django.com/)
+
 
 ---
 
