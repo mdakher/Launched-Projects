@@ -10,6 +10,6 @@ Banglai-django is a popular blog site written django in bangla.
 
 ---
 
-# 2. MTM (Upcoming project)
+# 2. MTM (Upcoming)
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions.
