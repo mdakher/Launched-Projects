@@ -1,3 +1,3 @@
-# My whole deployed project.
+# My all launched project.
 
 1. Banglai-Django
