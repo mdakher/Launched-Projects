@@ -1,4 +1,4 @@
-# My all launched project.
+# launched project.
 
 আমার সকল প্রোজেক্ট এখানে দেওয়া হলো, আমার সকল প্রোজেক্ট এখানে দেওয়া হলো আমার সকল প্রোজেক্ট এখানে দেওয়া হলো আমার সকল প্রোজেক্ট এখানে দেওয়া হলো
 
@@ -7,7 +7,9 @@
 
 # 1. Banglai-Django 
 
-[banglai-django.com](http://www.banglai-django.com/)
+Website: [www.banglai-django.com](http://www.banglai-django.com/)
+
+Ba
 
 Banglai-django is a popular blog site written django in bangla.
 Its blogsite was launched on February 4, 2004, by Harun Ur,
