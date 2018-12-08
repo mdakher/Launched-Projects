@@ -23,7 +23,7 @@
 * **Back-End used:** Python, Django
 
 
-* **Available in:** Bengali Language,
+* **Available in:** Bengali Language
 
 ---
 
