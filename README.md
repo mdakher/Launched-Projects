@@ -2,24 +2,24 @@
 
 Banglai-django is a popular blog site written django in bangla.
 
-* **Website**: [www.banglai-django.com](http://www.banglai-django.com/)
+* **Website:** [www.banglai-django.com](http://www.banglai-django.com/)
 
-* Owner: [Harun Ur Roshid]()
+* **Owner:** [Harun Ur Rashid](https://www.facebook.com/Harun.m.r)
 
-* Design & Front-End by: [Moshfequr Rahman]() 
+* **Design & Front-End by:** [Moshfequr Rahman](https://www.facebook.com/mushfequrr1) 
 
-* Back-End Developed by: [SD Shoriot]()
+* **Back-End Developed by:** [SD Shoriot](https://www.facebook.com/shoriot)
 
-* Initial release date: September 17, 1991
+* **Initial release date:** September 17, 1991
 
-* Date launched: November 1, 2004
+* **Date launched:** November 1, 2004
 
-* Front-End used:  Html, Css, javascript
+* **Front-End used:**  Html, Css, javascript
 
-* Back-End used: Python, Django
+* **Back-End used:** Python, Django
 
 
-* Available in: Bengali Language,
+* **Available in:** Bengali Language,
 
 ---
 
