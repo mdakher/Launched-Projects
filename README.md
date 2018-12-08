@@ -1,6 +1,6 @@
 # 1. Banglai-Django 
 
-Banglai-django is a popular blog site written django in bangla.
+##### Banglai-django is a popular blog site written django in bangla.
 
 * **Website:** [www.banglai-django.com](http://www.banglai-django.com/)
 
@@ -10,9 +10,9 @@ Banglai-django is a popular blog site written django in bangla.
 
 * **Back-End Developed by:** [SD Shoriot](https://www.facebook.com/shoriot)
 
-* **Initial release date:** September 17, 1991
+* **Initial release date:** September 17, 2016
 
-* **Date launched:** November 1, 2004
+* **Date launched:** December 10, 2018
 
 * **Front-End used:**  Html, Css, javascript
 
