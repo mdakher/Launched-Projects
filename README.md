@@ -8,7 +8,7 @@
 
 * **Design & Front-End by:** [Moshfequr Rahman](https://www.facebook.com/mushfequrr1) 
 
-* **Back-End Developed by:** [SD Shoriot](https://www.facebook.com/shoriot)
+* **Back-End Developed by: [SD Shoriot](https://www.facebook.com/shoriot)**
 
 * **Initial release date:** September 17, 2016
 
