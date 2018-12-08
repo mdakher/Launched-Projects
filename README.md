@@ -2,7 +2,7 @@
 
 Banglai-django is a popular blog site written django in bangla.
 
-* Website: [www.banglai-django.com](http://www.banglai-django.com/)
+* **Website**: [www.banglai-django.com](http://www.banglai-django.com/)
 
 * Owner: [Harun Ur Roshid]()
 
