@@ -1,7 +1,7 @@
 # 1. Banglai-Django 
 
 
-Banglai-django is a popular blog site written django in bangla. Banglai-django is a popular blog site written django in bangla. Banglai-django is a popular blog site written django in bangla. Banglai-django is a popular blog site written django in bangla. Banglai-django is a popular blog site written django in bangla. 
+Banglai-django is a popular blog site written django in bangla. We also love to do great work. We love design. We love life. We love technology. We love music. We love being productive. We love coffee. We love to work fast (& dirty). We love our clients. 
 
 
 * **Website:** [www.banglai-django.com](http://www.banglai-django.com/)
