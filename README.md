@@ -1,8 +1,6 @@
 # 1. Banglai-Django 
 
-
-Banglai-django is a popular blog site written django in bangla. We also love to do great work. We love design. We love life. We love technology. We love music. We love being productive. We love coffee. We love to work fast (& dirty). We love our clients. 
-
+"বাংলায় জ্যাঙ্গো" একটি জনপ্রিয় ব্লগ সাইট। এই ব্লগে জ্যাঙ্গো ফ্রেমওয়ার্কের বিগিনার লেভেল থেকে এ্যাডভান্চ লেভেল পর্যন্ত সবকিছু বাংলায় তুলে ধরার চেষ্টা করা হয়েছে।  ব্লগটিকে সাজানো হয়েছে সিরিজ টিউটোরিয়াল আকারে, যেখানে চেপটার হিসাবে ভাগ করা হয়েছে একেকটি অধ্যায়কে। এই ব্লগ সাইটির ঔনার হলেন হারুনুর রশিদ ভাই।
 
 * **Website:** [www.banglai-django.com](http://www.banglai-django.com/)
 
