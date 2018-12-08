@@ -1,12 +1,9 @@
 # 1. Banglai-Django 
 
-BlogSite
-
-Website: [www.banglai-django.com](http://www.banglai-django.com/)
-
-
 Banglai-django is a popular blog site written django in bangla.
 Its blogsite was launched on February 4, 2004, by Harun Ur,
+
+Website: [www.banglai-django.com](http://www.banglai-django.com/)
 
 Owner: [Harun Ur Roshid]()
 
