@@ -18,7 +18,7 @@
 
 * **Date launched:** December 10, 2018
 
-* **Front-End used:**  Html, Css, javascript
+* **Front-End used:**  Html, Css, JavaScript
 
 * **Back-End used:** Python, Django
 
