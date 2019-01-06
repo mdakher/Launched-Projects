@@ -14,9 +14,9 @@
 
 * **Back-End Developed by:** [SD Shoriot](https://www.facebook.com/shoriot)
 
-* **Initial release date:** September 17, 2016
+* **Initial release date:** Sep 17, 2016
 
-* **Date launched:** December 10, 2018
+* **Date launched:**
 
 * **Front-End used:**  Html, Css, JavaScript
 
@@ -27,13 +27,15 @@
 
 ---
 
-
-# 2. MTM (upcoming)
-
+# 2. Islamic-Blog (upcoming)
 
 ---
 
-# 3. Rondhonu Electronics (upcoming)
+# 3. Organization-Management-System (upcoming)
+
+---
+
+# 4. Rondhonu-Electronics (upcoming)
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)** if you've any questions.
